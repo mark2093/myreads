@@ -1,2 +1,2 @@
 # myreads
-myreads for Udacity course work
+myreads Project for Udacity course work
