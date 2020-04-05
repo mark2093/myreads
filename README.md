@@ -8,5 +8,5 @@ Steps to Install:
   2. One it has been cloned install the node_modules by running the command.<br>
    -- npm install
   3. Finally run the below commands to kick off the project <br>
-    -- npm start
+    -- npm start <br>
 This application is your own private library at your fingertips. Its capable of organizing your books as per your needs. When your readinga book that book can be placed into the reading section, once done you can move it to read and can keep your proposed reading list in the Want to Read section and that its your own personal book organizer. 
