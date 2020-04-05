@@ -9,4 +9,4 @@ Steps to Install:
    -- npm install
   3. Finally run the below commands to kick off the project <br>
     -- npm start <br>
-This application is your own private library at your fingertips. Its capable of organizing your books as per your needs. When your readinga book that book can be placed into the reading section, once done you can move it to read section It can also keep your proposed reading list in the Want to Read section and that its your own personal book organizer. 
+This application is your own private library at your fingertips. Its capable of organizing your books as per your needs. When your readinga book that book can be placed into the reading section, once done you can move it to read section. It can also keep your proposed reading list in the Want to Read section. It's your own personal book organizer. 
