@@ -11,8 +11,8 @@ class App extends Component {
 	{
 		books : [],
 		booksonshelf : [
-		{value:'booksreading', display:'Reading Now', isBookonShelf:true},
-		{value:'bookstoread', display:'Want to Read', isBookonShelf:true},
+		{value:'currentlyReading', display:'Reading Now', isBookonShelf:true},
+		{value:'wantToRead', display:'Want to Read', isBookonShelf:true},
 		{value:'read', display:'Read', isBookonShelf:true},
 		{value:'none', display:'None', isBookonShelf:false}
 		]
